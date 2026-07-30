@@ -1,7 +1,7 @@
 # ¡Hola! Soy Francisco Mateos 👋
 
 <p align="left">
-  <img width="192" height="112" alt="WhatsApp GIF 2026-07-30 at 18 37 11" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
+  <img width="450" alt="WhatsApp GIF 2026-07-30 at 18 37 11" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
 </p>
 
 ## About me 😎
