@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**frantmateos/frantmateos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Francisco Mateos 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="192" height="112" alt="WhatsApp GIF 2026-07-30 at 18 37 11" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
+## About me 😎
+```javascript
+const personalInformation = {
+  name: "Francisco Mateos 💻",
+  country: "Cordoba, Argentina 🇦🇷",
+  education: [
+    {
+      level: "University",
+      title: "Systems Engineering",
+      institute: "Universidad Católica de Córdoba", 
+      startDate: "2022/03/01", 
+      endDate: "2026/12/10",
+    }
+  ],
+  interests: [
+    "Backend Architecture",
+    "Data Engineering",
+    "Cloud Computing",
+    "Microservices",
+    "Distributed Systems",
+    "Automations & CI/CD"
+  ],
+  hobbies: ["Code", "Learn", "Architecture Design", "Motorsports 🏎️",🧉]
+};
