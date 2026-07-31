@@ -1,6 +1,20 @@
 # ¡Hola! Soy Francisco Mateos 👋
 
 <p align="center">
+  <img width="450" alt="WhatsApp GIF" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
+</p>
+
+<p align="center">
+  <a href="[www.linkedin.com/in/franciscotomasmateos](https://www.linkedin.com/in/franciscotomasmateos/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:f.tomasmateos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
   <img width="450" alt="WhatsApp GIF 2026-07-30 at 18 37 11" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
 </p>
 
