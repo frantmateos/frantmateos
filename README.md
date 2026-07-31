@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Francisco Mateos 👋</h1>
+<h1 align="center">¡Hi! I'm Francisco Mateos</h1>
 
 <p align="center">
   <img width="450" alt="WhatsApp GIF" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
@@ -16,7 +16,7 @@
 
 
 
-## About me 😎
+## About me
 
 ```javascript
 const personalInformation = {
