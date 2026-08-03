@@ -78,6 +78,6 @@ const personalInformation = {
 ## 🚀 Featured Projects
 
 * **Rodacore:** Multi-tenant SaaS for fleet tire management and cost optimization, built with FastAPI, PostgreSQL, and Go, and deployed on Oracle Cloud.
-* ]**SmartOffer:** Personalized promotions and recommendation engine for retail utilizing Machine Learning, featuring direct integration with Meta's WhatsApp Cloud API.
+* **SmartOffer:** Personalized promotions and recommendation engine for retail utilizing Machine Learning, featuring direct integration with Meta's WhatsApp Cloud API.
 * **MiKangu:** Online scheduling and management platform for aesthetic centers, featuring automated WhatsApp reminders and full integration with Mercado Pago for seamless payment processing.
 
