@@ -14,8 +14,9 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=frantmateos&color=blue)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frantmateos&style=for-the-badge&color=0e76a8&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 
 
