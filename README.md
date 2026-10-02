@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frantmateos&style=for-the-badge&color=0e76a8&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
 
 
 ## About me
@@ -84,12 +82,8 @@ const personalInformation = {
 
 * **Rodacore:** Multi-tenant SaaS for fleet tire management and cost optimization, built with FastAPI, PostgreSQL, and Go, and deployed on Oracle Cloud.
 * **SmartOffer:** Personalized promotions and recommendation engine for retail utilizing Machine Learning, featuring direct integration with Meta's WhatsApp Cloud API.
-* **MiKangu:** Online scheduling and management platform for aesthetic centers, featuring automated WhatsApp reminders and full integration with Mercado Pago for seamless payment processing.
+* **AhoraTurnos:** Online scheduling and management platform for aesthetic centers, featuring automated WhatsApp reminders and full integration with Mercado Pago for seamless payment processing.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/franciscotomasmateos/">LinkedIn</a> ·
-  <a href="mailto:f.tomasmateos@gmail.com">f.tomasmateos@gmail.com</a>
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0e76a8&height=120&section=footer" alt="Footer" />
