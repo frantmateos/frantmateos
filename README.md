@@ -1,7 +1,9 @@
-<h1 align="center">¡Hi! I'm Francisco Mateos</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e76a8,100:7c3aed&height=230&section=header&text=Francisco%20Mateos&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=20" alt="Header" />
+</p>
 
 <p align="center">
-  <img width="450" alt="WhatsApp GIF" src="https://github.com/user-attachments/assets/959a0b9e-dff9-475a-9187-ea3345094df4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Engineer;Python+%7C+Go+%7C+FastAPI+%7C+AWS;Building+scalable+software+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +19,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=frantmateos&style=for-the-badge&color=0e76a8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
 
 
 ## About me
